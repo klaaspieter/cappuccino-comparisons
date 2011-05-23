@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'tableview-objc' target in the 'tableview-objc' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

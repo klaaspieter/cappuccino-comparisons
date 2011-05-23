@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'colorpanel-objc' target in the 'colorpanel-objc' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
